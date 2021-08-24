@@ -1,4 +1,4 @@
 # XibScrollViewDemo
 Create a UIScrollView using Auto Layout in Storyboard
 
-readme: http://blog.csdn.net/cuibo1123
+readme: https://blog.csdn.net/cuibo1123/article/details/119889500
